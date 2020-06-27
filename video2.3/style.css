@@ -1,0 +1,26 @@
+section{
+    background-color: rgb(119, 142, 206);
+    font-size:normal 20pt Arial;
+    width: 800px;
+    margin:auto;
+   border-radius: 5pt;;
+}
+#title{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+#base{
+    padding-left: 20pt;
+}
+#res{
+   padding-top: 10pt;
+   padding-left: 20pt;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    padding-bottom: 5pt;
+}
